@@ -1,2 +1,2 @@
 # codwarzone_psp
-port of warzone
+port of Call of Duty Warzone for PSP
